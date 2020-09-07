@@ -14,6 +14,7 @@ Syntax highlighted code block
 Flex Construction LLC
 Owner: Felix Ubiles  
 Chimeneys, Roofing, General Construction
+Discounts for Senior Citizens, Veterans, Public Servants
 
 - Bulleted
 - List
