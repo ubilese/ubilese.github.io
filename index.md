@@ -9,17 +9,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Golden Eagle LLC. 
-Helicopter Flight Safety Data Analytics.
-Owner: Elvis Ubiles
-
-
-
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Data:104
+Introduction to social media analytics
+Professor Evan Uribe
+Elvis Ubiles
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
