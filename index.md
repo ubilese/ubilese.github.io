@@ -11,18 +11,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-Flex Construction LLC
-Owner: Felix Ubiles  
-Chimeneys, Roofing, General Construction
-Discounts for Senior Citizens, Veterans, Public Servants
-
-- Bulleted
-- List
-c(1,2,3)
-
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
