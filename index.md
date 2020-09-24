@@ -18,6 +18,7 @@ Discounts for Senior Citizens, Veterans, Public Servants
 
 - Bulleted
 - List
+c(1,2,3)
 
 1. Numbered
 2. List
