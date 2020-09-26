@@ -5,4 +5,4 @@ url: https://ubilese.github.io
 author: E. Uribe
 plugins:
  -jekyll-seo-tag
-google_analytics: "UA-179035159-1"
+google_analytics: 'UA-179035159-1'
