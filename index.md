@@ -13,7 +13,6 @@ Data:104
 Introduction to social media analytics
 Professor Evan Uribe
 Elvis Ubiles
-
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
