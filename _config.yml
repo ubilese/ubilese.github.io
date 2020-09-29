@@ -3,6 +3,5 @@ title: Sample github pages site
 description: Welcome to Data 104 Social Media Analytics
 url: https://ubilese.github.io/ubilese.github.io
 author: Elvis Ubiles
-plugins:
--jekyll-seo-tag
+plugins: -jekyll-seo-tag
 google_analytics: 'UA-179035159-1'
