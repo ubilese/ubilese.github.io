@@ -1,8 +1,8 @@
 theme: jekyll-theme-minimal
 title: Sample github pages site
 description: Welcome to Data 104 Social Media Analytics
-url: https://ubilese.github.io
-author: E. Uribe
+url: https://ubilese.github.io/ubilese.github.io
+author: Elvis Ubiles
 plugins:
  -jekyll-seo-tag
 google_analytics: 'UA-179035159-1'
